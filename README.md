@@ -3,7 +3,9 @@
 <h3 align="center">A passionate programmer</h3>
 
 🔭 I’m currently a software engineer student at Jimma Unversity.
+
 💬 I'm open to discussions and collaborating on interesting projects.
+
 🌱 As a lifelong learner, I'm always exploring new technologies to stay up-to-date with industry trends.
 - 📫 How to reach me **temen9020@gmail.com**
 
