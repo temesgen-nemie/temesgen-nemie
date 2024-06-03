@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Temesgen nemie</h1>
-  [![HitCount](https://hits.dwyl.com/temesgen-nemie/temesgen-nemie.svg?style=flat-square)](http://hits.dwyl.com/temesgen-nemie/temesgen-nemie)
 <h3 align="center">A passionate programmer</h3>
 
 🔭 I’m currently a software engineer student at Jimma Unversity.
