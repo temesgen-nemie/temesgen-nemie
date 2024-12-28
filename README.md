@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Temesgen nemie</h1>
 <h3 align="center">A passionate programmer</h3>
-<p align="left"> 
-   <img src="https://komarev.com/ghpvc/?username=temesgen-nemie&label=Profile%20views&color=0e75b6&style=flat" alt="temesgen-nemie" /> 
-</p>
+
 
 🔭 I’m currently a software engineer student at Jimma Unversity.
 
@@ -11,7 +9,9 @@
 
 🌱 As a lifelong learner, I'm always exploring new technologies to stay up-to-date with industry trends.
 - 📫 How to reach me **temen9020@gmail.com**
-
+<p align="left"> 
+   <img src="https://komarev.com/ghpvc/?username=temesgen-nemie&label=Profile%20views&color=0e75b6&style=flat" alt="temesgen-nemie" /> 
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/teme abu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teme abu" height="30" width="40" /></a>
