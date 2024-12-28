@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Temesgen nemie</h1>
 <h3 align="center">A passionate programmer</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=temesgen-nemie)
 
 🔭 I’m currently a software engineer student at Jimma Unversity.
 
