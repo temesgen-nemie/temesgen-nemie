@@ -3,7 +3,8 @@
 <h3 align="center">A passionate programmer</h3>
 
 
-🔭 I’m currently a software engineer student at Jimma Unversity.
+💻 A passionate software developer  
+🎓 BSc in Software Engineering, Jimma University  
 
 💬 I'm open to discussions and collaborating on interesting projects.
 
